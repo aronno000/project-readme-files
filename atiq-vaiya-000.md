@@ -16,8 +16,17 @@
  - __Expert At__: This will be shown in '/' at Hero Section. Functions are: __READ, UPDATE__ by only giving img url.
 
 # ABOUT ME
- - Primarily 06 blocks in total. In per blocks, ther will be three particular things to do in operation
+ - Primarily 06 blocks in total. In per block, there will be three particular things to do in operation
     1. *Icon*: should be given svg code of icon.
     2. *Title*
     3. *Description*
+ - Operation Will be **CRUD**
+
+# My Portfolio
+ - In each block, there will be three particular things to do in operation
+    1. *Image*: should be given link of that img.
+    2. *Badge*
+    3. *Title*
+    4. *Description*
+    5. *View Project Link*
  - Operation Will be **CRUD**
